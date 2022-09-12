@@ -1,5 +1,5 @@
 buildVariable: false
-familyName: Noto Sans Sign Writing
+familyName: Noto Sans SignWriting
 googleFonts: true
 includeSubsets:
 - from: Noto Sans
