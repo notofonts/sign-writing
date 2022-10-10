@@ -2,38 +2,10 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[11] NotoSansSignWriting-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
+<details><summary><b>[9] NotoSansSignWriting-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1002 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs could not be attached to the dotted circle glyph:
-
-	- acutecomb
-
-	- brevecomb
-
-	- caroncomb
-
-	- cedillacomb
-
-	- circumflexcomb
-
-	- commaaccentcomb
-
-	- commaturnedabovecomb
-
-	- dieresiscomb
-
-	- dotaccentcomb
-
-	- gravecomb 
-
-	- And 5 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: unattached-dotted-circle-marks]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure files are not too large. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/file_size">com.google.fonts/check/file_size</a>)</summary><div>
 
 
@@ -71,13 +43,6 @@ The following glyphs do not have the recommended number of contours:
 
 	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
-	 F2 (U+1DA9B), F3 (U+1DA9C), F4 (U+1DA9D), F5 (U+1DA9E), F6 (U+1DA9F), R10 (U+1DAA9), R11 (U+1DAAA), R12 (U+1DAAB), R13 (U+1DAAC), R14 (U+1DAAD) and 117 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
@@ -121,8 +86,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: mark-chars]
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 9 | 113 | 7 | 96 | 0 |
-| 0% | 1% | 4% | 50% | 3% | 42% | 0% |
+| 0 | 1 | 8 | 113 | 7 | 98 | 0 |
+| 0% | 0% | 4% | 50% | 3% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
