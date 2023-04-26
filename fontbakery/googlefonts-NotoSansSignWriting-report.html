@@ -73,24 +73,24 @@
             </tr>
             <tr>
                 <td>0</td>
-                <td>1</td>
-                <td>8</td>
-                <td>113</td>
+                <td>3</td>
+                <td>9</td>
+                <td>118</td>
                 <td>7</td>
-                <td>98</td>
+                <td>105</td>
             </tr>
             <tr>
                 <td>0%</td>
-                <td>1%</td>
+                <td>2%</td>
                 <td>5%</td>
                 <td>67%</td>
                 <td>4%</td>
-                <td>58%</td>
+                <td>60%</td>
             </tr>
             </table>
             
 <p><strong>Note:</strong> The following loglevels were omitted in this report: SKIP, INFO, PASS, DEBUG</p>
-<h2>&lt;Section: Google Fonts&gt; 🔥⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
+<h2>&lt;Section: Google Fonts&gt; 🔥🔥⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
 <h3>Ensure files are not too large.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/file_size&gt;</div>
 
@@ -106,21 +106,47 @@ FONT_FAMILY_NAME = 'Noto Sans SignWriting' / SUBFAMILY_NAME = 'Regular'</p>
 <h3>Check font follows the Google Fonts vertical metric schema</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/vertical_metrics&gt;</div>
 
-<details><summary>🔥 <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1002 when it should be at least 1200 [code: bad-hhea-range]</p>
+<details><summary>🔥 <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1002 when it should be at least 1200 [code: bad-hhea-range]</p>
 </span></li></ul></div></details>
 <h3>Ensure fonts have ScriptLangTags declared on the 'meta' table.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/meta/script_lang_tags&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
-<h2>&lt;Section: Universal&gt; ⚠️⚠️⏩⏩⏩⏩ℹ️ℹ️</h2>
+<h3>Noto fonts must have an ARTICLE.en_us.html file</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/description/noto_has_article&gt;</div>
+
+<details><summary>🔥 <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>This is a Noto font but it lacks an ARTICLE.en_us.html file [code: missing-article]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Universal&gt; 🔥⚠️⚠️⚠️⏩⏩⏩⏩⏩ℹ️ℹ️</h2>
 <h3>Check font contains no unreachable glyphs</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/unreachable_glyphs&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:</p>
 <pre><code>- nbspace
+
+- u1DA01_F2
+
+- u1DA01_F2_R2
+
+- u1DA01_F2_R3
+
+- u1DA01_F2_R4
+
+- u1DA01_F2_R5
+
+- u1DA01_F2_R6
+
+- u1DA01_F2_R7
+
+- u1DA01_F2_R8
+
+- u1DA01_F3 
+
+- 367 more.
 </code></pre>
-<p>[code: unreachable-glyphs]</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
 </span></li></ul></div></details>
 <h3>Check if each glyph has the recommended amount of contours.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/contour_count&gt;</div>
@@ -133,9 +159,24 @@ FONT_FAMILY_NAME = 'Noto Sans SignWriting' / SUBFAMILY_NAME = 'Regular'</p>
 
 - Glyph name: aogonek	Contours detected: 3	Expected: 2 
 
-- And Glyph name: uogonek	Contours detected: 2	Expected: 1
+- Glyph name: uogonek	Contours detected: 2	Expected: 1
 </code></pre>
 <p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<h3>Ensure soft_dotted characters lose their dot when combined with marks that replace the dot.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/soft_dotted&gt;</div>
+
+<details><summary>🔥 <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The dot of soft dotted characters used in orthographies must disappear in the following strings: i̊ i̋ j̀ j́ j̃ j̄ j̈ į̀ į́ į̂ į̃ į̄ į̌</p>
+<p>The dot of soft dotted characters should disappear in other cases, for example: ĩ ĭ i̇ ǐ i̒ ĩ̦ ĭ̦ i̦̇ i̦̊ i̦̋ ǐ̦ i̦̒ ĩ̧ ĭ̧ i̧̇ i̧̊ i̧̋ ǐ̧ i̧̒ ĵ [code: soft-dotted]</p>
+</span></li></ul></div></details>
+<h3>Check math signs have the same width.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/math_signs_width&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/NotoSansSignWriting/googlefonts/ttf/NotoSansSignWriting-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The most common width is 572 among a set of 6 math glyphs.
+The following math glyphs have a different width, though:</p>
+<p>Width = 322:
+minus
+[code: width-outliers]</p>
 </span></li></ul></div></details>
 <h2>&lt;Section: Outline Correctness Checks&gt; ⚠️⚠️⚠️</h2>
 <h3>Do any segments have colinear vectors?</h3>
@@ -148,7 +189,7 @@ FONT_FAMILY_NAME = 'Noto Sans SignWriting' / SUBFAMILY_NAME = 'Regular'</p>
 
 * u1DA34 (U+1DA34): L&lt;&lt;385.0,375.0&gt;--&lt;435.0,325.0&gt;&gt; -&gt; L&lt;&lt;435.0,325.0&gt;--&lt;459.0,300.0&gt;&gt; 
 
-* And u1DA34 (U+1DA34): L&lt;&lt;541.0,300.0&gt;--&lt;565.0,325.0&gt;&gt; -&gt; L&lt;&lt;565.0,325.0&gt;--&lt;615.0,375.0&gt;&gt; [code: found-colinear-vectors]
+* u1DA34 (U+1DA34): L&lt;&lt;541.0,300.0&gt;--&lt;565.0,325.0&gt;&gt; -&gt; L&lt;&lt;565.0,325.0&gt;--&lt;615.0,375.0&gt;&gt; [code: found-colinear-vectors]
 </code></pre>
 </span></li></ul></div></details>
 <h3>Do outlines contain any jaggy segments?</h3>
@@ -161,7 +202,7 @@ FONT_FAMILY_NAME = 'Noto Sans SignWriting' / SUBFAMILY_NAME = 'Regular'</p>
 
 * u1D82C (U+1D82C): L&lt;&lt;407.0,378.0&gt;--&lt;486.0,394.0&gt;&gt;/L&lt;&lt;486.0,394.0&gt;--&lt;424.0,394.0&gt;&gt; = 11.449337988500027 
 
-* And u1D8A5 (U+1D8A5): B&lt;&lt;565.5,423.5&gt;-&lt;596.0,411.0&gt;-&lt;621.0,388.0&gt;&gt;/L&lt;&lt;621.0,388.0&gt;--&lt;369.0,640.0&gt;&gt; = 2.3859440303887243 [code: found-jaggy-segments]
+* u1D8A5 (U+1D8A5): B&lt;&lt;565.5,423.5&gt;-&lt;596.0,411.0&gt;-&lt;621.0,388.0&gt;&gt;/L&lt;&lt;621.0,388.0&gt;--&lt;369.0,640.0&gt;&gt; = 2.3859440303887243 [code: found-jaggy-segments]
 </code></pre>
 </span></li></ul></div></details>
 <h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
@@ -176,7 +217,7 @@ FONT_FAMILY_NAME = 'Noto Sans SignWriting' / SUBFAMILY_NAME = 'Regular'</p>
 
 * u1DA65 (U+1DA65): L&lt;&lt;642.0,31.0&gt;--&lt;358.0,30.0&gt;&gt; 
 
-* And u1DA66 (U+1DA66): L&lt;&lt;642.0,31.0&gt;--&lt;358.0,30.0&gt;&gt; [code: found-semi-vertical]
+* u1DA66 (U+1DA66): L&lt;&lt;642.0,31.0&gt;--&lt;358.0,30.0&gt;&gt; [code: found-semi-vertical]
 </code></pre>
 </span></li></ul></div></details>
                     </body>
