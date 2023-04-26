@@ -1,0 +1,51 @@
+{
+glyphname = ux1DA24_F2_R8;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"401 232 LINE",
+"437 232 LINE",
+"437 392 LINE",
+"277 392 LINE",
+"277 356 LINE",
+"402 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"701 232 LINE",
+"737 232 LINE",
+"737 392 LINE",
+"577 392 LINE",
+"577 356 LINE",
+"702 357 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"375 305 LINE",
+"350 329 LINE",
+"251 230 LINE",
+"275 205 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"675 305 LINE",
+"650 329 LINE",
+"551 230 LINE",
+"575 205 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

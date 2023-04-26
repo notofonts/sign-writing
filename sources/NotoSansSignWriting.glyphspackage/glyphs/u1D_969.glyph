@@ -1,0 +1,33 @@
+{
+glyphname = u1D969;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"521 356 LINE",
+"630 356 LINE",
+"500 486 LINE",
+"370 356 LINE",
+"479 356 LINE",
+"479 193 LINE",
+"521 193 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 111 LINE",
+"640 153 LINE",
+"360 153 LINE",
+"360 111 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1D969;
+}

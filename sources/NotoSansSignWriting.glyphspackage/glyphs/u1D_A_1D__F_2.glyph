@@ -1,0 +1,78 @@
+{
+glyphname = u1DA1D_F2;
+layers = (
+{
+anchors = (
+{
+name = Anchor16;
+position = "{500, 550}";
+},
+{
+name = Anchor18;
+position = "{500, 510}";
+},
+{
+name = _Anchor16;
+position = "{500, 402}";
+},
+{
+name = _Anchor2;
+position = "{500, 402}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"758 462 OFFCURVE",
+"710 502 OFFCURVE",
+"653 502 CURVE SMOOTH",
+"596 502 OFFCURVE",
+"548 462 OFFCURVE",
+"543 412 CURVE",
+"522 412 LINE",
+"522 392 LINE",
+"543 392 LINE",
+"548 342 OFFCURVE",
+"596 302 OFFCURVE",
+"653 302 CURVE SMOOTH",
+"710 302 OFFCURVE",
+"758 342 OFFCURVE",
+"763 392 CURVE",
+"784 392 LINE",
+"784 412 LINE",
+"763 412 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"691 467 OFFCURVE",
+"722 443 OFFCURVE",
+"728 412 CURVE",
+"578 412 LINE",
+"584 443 OFFCURVE",
+"615 467 OFFCURVE",
+"653 467 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"615 337 OFFCURVE",
+"584 361 OFFCURVE",
+"578 392 CURVE",
+"728 392 LINE",
+"722 361 OFFCURVE",
+"691 337 OFFCURVE",
+"653 337 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+category = Mark;
+subCategory = Nonspacing;
+}

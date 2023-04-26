@@ -1,0 +1,40 @@
+{
+glyphname = ux1DA22_F4_R2;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"540 329 LINE",
+"540 349 LINE",
+"451 349 LINE",
+"451 260 LINE",
+"471 260 LINE",
+"471 329 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 328 LINE",
+"500 314 LINE",
+"557 257 LINE",
+"571 271 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"486 300 LINE",
+"472 286 LINE",
+"529 229 LINE",
+"543 243 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,34 @@
+{
+glyphname = u1D95E_R8;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"493 527 LINE",
+"550 470 LINE",
+"265 185 LINE",
+"186 156 LINE",
+"356 -14 LINE",
+"385 65 LINE",
+"670 350 LINE",
+"727 293 LINE",
+"727 527 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"580 440 LINE",
+"640 380 LINE",
+"393 132 LINE",
+"333 193 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

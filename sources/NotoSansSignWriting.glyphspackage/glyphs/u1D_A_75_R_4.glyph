@@ -1,0 +1,40 @@
+{
+glyphname = u1DA75_R4;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 617}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"494 732 LINE",
+"480 741 OFFCURVE",
+"461 738 OFFCURVE",
+"449 726 CURVE SMOOTH",
+"435 712 OFFCURVE",
+"435 688 OFFCURVE",
+"450 673 CURVE SMOOTH",
+"464 659 OFFCURVE",
+"488 659 OFFCURVE",
+"502 673 CURVE SMOOTH",
+"514 685 OFFCURVE",
+"517 704 OFFCURVE",
+"509 718 CURVE",
+"559 769 LINE",
+"545 783 LINE"
+);
+}
+);
+width = 0;
+}
+);
+note = "drop headshape -100 in OT when using top marks";
+category = Mark;
+subCategory = Nonspacing;
+}

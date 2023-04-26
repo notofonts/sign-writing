@@ -1,0 +1,32 @@
+{
+glyphname = u1DA56_F3;
+layers = (
+{
+anchors = (
+{
+name = _Anchor12;
+position = "{500, 98}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"220 103 LINE",
+"245 78 LINE",
+"319 152 LINE",
+"392 79 LINE",
+"608 79 LINE",
+"608 114 LINE",
+"406 114 LINE",
+"319 202 LINE"
+);
+}
+);
+width = 0;
+}
+);
+category = Mark;
+subCategory = Nonspacing;
+}

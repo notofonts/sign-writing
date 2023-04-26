@@ -1,0 +1,80 @@
+{
+glyphname = u1DA75_F5;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 617}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"394 797 OFFCURVE",
+"377 780 OFFCURVE",
+"377 760 CURVE SMOOTH",
+"377 742 OFFCURVE",
+"389 728 OFFCURVE",
+"405 723 CURVE",
+"405 652 LINE",
+"425 652 LINE",
+"425 723 LINE",
+"440 728 OFFCURVE",
+"452 743 OFFCURVE",
+"452 760 CURVE SMOOTH",
+"452 780 OFFCURVE",
+"435 797 OFFCURVE",
+"415 797 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"490 797 LINE",
+"490 726 LINE",
+"474 721 OFFCURVE",
+"462 707 OFFCURVE",
+"462 689 CURVE SMOOTH",
+"462 669 OFFCURVE",
+"479 652 OFFCURVE",
+"500 652 CURVE SMOOTH",
+"520 652 OFFCURVE",
+"537 669 OFFCURVE",
+"537 689 CURVE SMOOTH",
+"537 706 OFFCURVE",
+"525 721 OFFCURVE",
+"510 726 CURVE",
+"510 797 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"622 780 OFFCURVE",
+"605 797 OFFCURVE",
+"585 797 CURVE SMOOTH",
+"564 797 OFFCURVE",
+"547 780 OFFCURVE",
+"547 760 CURVE SMOOTH",
+"547 742 OFFCURVE",
+"559 728 OFFCURVE",
+"575 723 CURVE",
+"575 652 LINE",
+"595 652 LINE",
+"595 723 LINE",
+"610 728 OFFCURVE",
+"622 743 OFFCURVE",
+"622 760 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+note = "drop headshape -100 in OT when using top marks";
+category = Mark;
+subCategory = Nonspacing;
+}

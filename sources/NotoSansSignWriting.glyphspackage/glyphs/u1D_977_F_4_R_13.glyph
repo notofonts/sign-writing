@@ -1,0 +1,22 @@
+{
+glyphname = u1D977_F4_R13;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"471 140 LINE",
+"471 378 LINE",
+"652 197 LINE",
+"682 227 LINE",
+"429 480 LINE",
+"429 140 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

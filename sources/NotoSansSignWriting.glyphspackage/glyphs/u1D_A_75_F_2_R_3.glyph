@@ -1,0 +1,60 @@
+{
+glyphname = u1DA75_F2_R3;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 617}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"497 740 OFFCURVE",
+"482 752 OFFCURVE",
+"465 752 CURVE SMOOTH",
+"445 752 OFFCURVE",
+"428 735 OFFCURVE",
+"428 715 CURVE SMOOTH",
+"428 694 OFFCURVE",
+"445 677 OFFCURVE",
+"465 677 CURVE SMOOTH",
+"483 677 OFFCURVE",
+"497 689 OFFCURVE",
+"502 705 CURVE",
+"573 705 LINE",
+"573 725 LINE",
+"502 725 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"445 657 OFFCURVE",
+"428 640 OFFCURVE",
+"428 620 CURVE SMOOTH",
+"428 599 OFFCURVE",
+"445 582 OFFCURVE",
+"465 582 CURVE SMOOTH",
+"483 582 OFFCURVE",
+"497 594 OFFCURVE",
+"502 610 CURVE",
+"573 610 LINE",
+"573 630 LINE",
+"502 630 LINE",
+"497 645 OFFCURVE",
+"482 657 OFFCURVE",
+"465 657 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+note = "drop headshape -100 in OT when using top marks";
+category = Mark;
+subCategory = Nonspacing;
+}

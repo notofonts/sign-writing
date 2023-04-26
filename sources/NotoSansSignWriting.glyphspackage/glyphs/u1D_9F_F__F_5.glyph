@@ -1,0 +1,41 @@
+{
+glyphname = u1D9FF_F5;
+layers = (
+{
+anchors = (
+{
+name = Anchor10;
+position = "{500, 481}";
+},
+{
+name = Anchor12;
+position = "{500, 100}";
+},
+{
+name = Anchor14;
+position = "{500, 300}";
+},
+{
+name = Anchor2;
+position = "{500, 402}";
+},
+{
+name = Anchor4;
+position = "{500, -120}";
+},
+{
+name = Anchor6;
+position = "{500, 717}";
+},
+{
+name = Anchor8;
+position = "{500, 300}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+width = 1000;
+}
+);
+note = "invisible headshape as per proposal";
+category = Letter;
+}

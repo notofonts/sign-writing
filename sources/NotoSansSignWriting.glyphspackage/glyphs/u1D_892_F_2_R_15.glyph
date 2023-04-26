@@ -1,0 +1,33 @@
+{
+glyphname = u1D892_F2_R15;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"232 537 LINE",
+"364 405 LINE",
+"364 125 LINE",
+"714 125 LINE",
+"714 475 LINE",
+"419 475 LINE",
+"295 599 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"406 433 LINE",
+"672 433 LINE",
+"672 300 LINE",
+"406 300 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "need to be baby glyphs";
+}

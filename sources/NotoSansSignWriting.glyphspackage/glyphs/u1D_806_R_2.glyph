@@ -1,0 +1,35 @@
+{
+glyphname = u1D806_R2;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"364 712 LINE",
+"233 581 LINE",
+"314 500 LINE",
+"344 529 LINE",
+"293 581 LINE",
+"364 653 LINE",
+"518 499 LINE",
+"300 281 LINE",
+"548 33 LINE",
+"795 281 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"736 281 LINE",
+"548 93 LINE",
+"360 281 LINE",
+"548 469 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

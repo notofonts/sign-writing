@@ -1,0 +1,37 @@
+{
+glyphname = u1D80A_F6_R14;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"618 5 LINE",
+"865 252 LINE",
+"618 500 LINE",
+"370 252 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"149 117 LINE SMOOTH",
+"201 66 OFFCURVE",
+"246 67 OFFCURVE",
+"300 121 CURVE SMOOTH",
+"373 194 LINE",
+"343 224 LINE",
+"268 148 LINE SMOOTH",
+"236 116 OFFCURVE",
+"211 114 OFFCURVE",
+"182 144 CURVE SMOOTH",
+"58 268 LINE",
+"28 238 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

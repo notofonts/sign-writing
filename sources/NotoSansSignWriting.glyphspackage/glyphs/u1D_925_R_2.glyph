@@ -1,0 +1,33 @@
+{
+glyphname = u1D925_R2;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"601 362 LINE",
+"600 404 LINE",
+"396 404 LINE",
+"396 199 LINE",
+"437 199 LINE",
+"438 362 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"686 277 LINE",
+"685 319 LINE",
+"481 319 LINE",
+"481 114 LINE",
+"522 114 LINE",
+"523 277 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

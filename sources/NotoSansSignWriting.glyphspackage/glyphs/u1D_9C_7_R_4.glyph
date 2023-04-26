@@ -1,0 +1,37 @@
+{
+glyphname = u1D9C7_R4;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"353 -57 OFFCURVE",
+"393 -65 OFFCURVE",
+"433 -24 CURVE SMOOTH",
+"845 387 LINE",
+"815 417 LINE",
+"434 36 LINE SMOOTH",
+"391 -7 OFFCURVE",
+"377 -21 OFFCURVE",
+"349 6 CURVE SMOOTH",
+"325 30 OFFCURVE",
+"330 46 OFFCURVE",
+"382 98 CURVE",
+"430 49 LINE",
+"430 283 LINE",
+"197 283 LINE",
+"246 233 LINE",
+"198 166 OFFCURVE",
+"220 76 OFFCURVE",
+"275 20 CURVE SMOOTH",
+"319 -23 LINE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+note = "default Arrowhead and SM tail (1-3); SM Arrow and ";
+}

@@ -1,0 +1,11 @@
+{
+glyphname = CR;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+width = 1000;
+}
+);
+unicode = 000D;
+category = Separator;
+}

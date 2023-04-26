@@ -1,0 +1,38 @@
+{
+glyphname = u1D8F2_F6_R11;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"286 282 LINE",
+"636 282 LINE",
+"636 632 LINE",
+"286 632 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"636 243 LINE",
+"594 243 LINE",
+"594 146 LINE",
+"497 243 LINE",
+"391 243 LINE",
+"594 41 LINE",
+"594 -68 LINE",
+"636 -68 LINE",
+"636 -1 LINE",
+"662 -27 LINE",
+"715 26 LINE",
+"636 105 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "angle vs square. do I need a thinner square???";
+}

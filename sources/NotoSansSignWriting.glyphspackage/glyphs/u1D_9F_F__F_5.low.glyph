@@ -1,0 +1,40 @@
+{
+glyphname = u1D9FF_F5.low;
+layers = (
+{
+anchors = (
+{
+name = Anchor10;
+position = "{500, 378}";
+},
+{
+name = Anchor12;
+position = "{500, -3}";
+},
+{
+name = Anchor14;
+position = "{500, 197}";
+},
+{
+name = Anchor2;
+position = "{500, 299}";
+},
+{
+name = Anchor4;
+position = "{500, -220}";
+},
+{
+name = Anchor6;
+position = "{500, 616}";
+},
+{
+name = Anchor8;
+position = "{500, 197}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+width = 1000;
+}
+);
+category = Letter;
+}

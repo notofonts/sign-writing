@@ -1,0 +1,40 @@
+{
+glyphname = u1DA70_R12;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"282 318 LINE",
+"282 226 LINE",
+"872 226 LINE",
+"872 318 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"227 226 LINE",
+"142 311 LINE",
+"128 297 LINE",
+"213 212 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"262 177 LINE",
+"262 266 LINE",
+"243 266 LINE",
+"243 197 LINE",
+"173 197 LINE",
+"173 177 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

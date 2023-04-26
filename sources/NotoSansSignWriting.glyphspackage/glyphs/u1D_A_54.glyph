@@ -1,0 +1,37 @@
+{
+glyphname = u1DA54;
+layers = (
+{
+anchors = (
+{
+name = _Anchor12;
+position = "{500, 100}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"440 135 LINE",
+"440 100 LINE",
+"330 100 LINE",
+"330 65 LINE",
+"460 65 LINE",
+"460 100 LINE",
+"540 100 LINE",
+"540 65 LINE",
+"670 65 LINE",
+"670 100 LINE",
+"560 100 LINE",
+"560 135 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 1DA54;
+category = Mark;
+subCategory = Nonspacing;
+}

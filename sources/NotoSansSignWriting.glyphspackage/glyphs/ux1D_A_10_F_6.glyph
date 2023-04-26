@@ -1,0 +1,33 @@
+{
+glyphname = ux1DA10_F6;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"265 439 LINE",
+"352 351 LINE",
+"480 351 LINE",
+"480 386 LINE",
+"366 386 LINE",
+"289 464 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"322 281 LINE",
+"458 281 LINE",
+"458 316 LINE",
+"336 316 LINE",
+"240 412 LINE",
+"216 387 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

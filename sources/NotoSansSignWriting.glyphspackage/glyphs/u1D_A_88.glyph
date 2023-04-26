@@ -1,0 +1,21 @@
+{
+glyphname = u1DA88;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"980 382 LINE",
+"20 382 LINE",
+"20 217 LINE",
+"980 217 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1DA88;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = ux1DA68_F3_R7;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"492 330 LINE",
+"443 330 LINE",
+"443 310 LINE",
+"512 310 LINE",
+"522 300 LINE",
+"512 290 LINE",
+"443 290 LINE",
+"443 270 LINE",
+"492 270 LINE",
+"482 260 LINE",
+"500 242 LINE",
+"558 300 LINE",
+"500 358 LINE",
+"482 340 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

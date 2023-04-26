@@ -1,0 +1,32 @@
+{
+glyphname = ux1DA75_F6_R2;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"520 317 OFFCURVE",
+"517 336 OFFCURVE",
+"505 348 CURVE SMOOTH",
+"491 362 OFFCURVE",
+"467 362 OFFCURVE",
+"453 348 CURVE SMOOTH",
+"438 333 OFFCURVE",
+"438 309 OFFCURVE",
+"452 295 CURVE SMOOTH",
+"464 283 OFFCURVE",
+"483 280 OFFCURVE",
+"497 289 CURVE",
+"548 238 LINE",
+"562 252 LINE",
+"512 303 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "drop headshape -100 in OT when using top marks";
+}

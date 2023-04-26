@@ -1,0 +1,38 @@
+{
+glyphname = u1D815_F6_R4;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"280 328 LINE",
+"528 81 LINE",
+"775 328 LINE",
+"528 575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"157 -43 LINE",
+"186 -73 LINE",
+"406 147 LINE",
+"377 177 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"280 -167 LINE",
+"500 53 LINE",
+"471 83 LINE",
+"251 -137 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

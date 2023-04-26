@@ -1,0 +1,54 @@
+{
+glyphname = u1D884_F5_R8;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"519 235 LINE",
+"580 295 LINE",
+"540 334 LINE",
+"558 375 LINE",
+"609 324 LINE",
+"638 353 LINE",
+"575 416 LINE",
+"612 505 LINE",
+"573 519 LINE",
+"543 448 LINE",
+"418 573 LINE",
+"389 544 LINE",
+"526 407 LINE",
+"509 366 LINE",
+"364 510 LINE",
+"304 450 LINE",
+"473 281 LINE",
+"406 121 LINE",
+"483 198 LINE",
+"505 249 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"543 -46 LINE",
+"790 201 LINE",
+"666 326 LINE",
+"418 78 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"666 296 LINE",
+"713 249 LINE",
+"495 31 LINE",
+"448 78 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

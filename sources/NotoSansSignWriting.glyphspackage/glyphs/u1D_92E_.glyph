@@ -1,0 +1,37 @@
+{
+glyphname = u1D92E;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"468 356 LINE",
+"532 356 LINE",
+"532 193 LINE",
+"574 193 LINE",
+"574 356 LINE",
+"630 356 LINE",
+"500 486 LINE",
+"370 356 LINE",
+"426 356 LINE",
+"426 193 LINE",
+"468 193 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 111 LINE",
+"640 153 LINE",
+"360 153 LINE",
+"360 111 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1D92E;
+}

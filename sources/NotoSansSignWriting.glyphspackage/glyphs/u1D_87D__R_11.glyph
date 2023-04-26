@@ -1,0 +1,33 @@
+{
+glyphname = u1D87D_R11;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"286 213 LINE",
+"328 213 LINE",
+"328 399 LINE",
+"551 399 LINE",
+"551 55 LINE",
+"636 55 LINE",
+"636 575 LINE",
+"286 575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"615 420 LINE",
+"307 420 LINE",
+"307 554 LINE",
+"615 554 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

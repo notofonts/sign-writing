@@ -1,0 +1,68 @@
+{
+glyphname = u1DA04_R4;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 617}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"284 664 LINE",
+"284 780 LINE",
+"404 780 LINE",
+"404 800 LINE",
+"264 800 LINE",
+"264 664 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"625 743 OFFCURVE",
+"572 704 OFFCURVE",
+"500 704 CURVE SMOOTH",
+"453 704 OFFCURVE",
+"403 723 OFFCURVE",
+"370 755 CURVE",
+"356 740 LINE",
+"395 704 OFFCURVE",
+"449 684 OFFCURVE",
+"500 684 CURVE SMOOTH",
+"576 684 OFFCURVE",
+"636 725 OFFCURVE",
+"686 779 CURVE",
+"671 794 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"655 681 OFFCURVE",
+"579 644 OFFCURVE",
+"500 644 CURVE SMOOTH",
+"437 644 OFFCURVE",
+"377 667 OFFCURVE",
+"325 709 CURVE",
+"311 694 LINE",
+"367 648 OFFCURVE",
+"432 624 OFFCURVE",
+"500 624 CURVE SMOOTH",
+"585 624 OFFCURVE",
+"666 662 OFFCURVE",
+"732 734 CURVE",
+"717 748 LINE"
+);
+}
+);
+width = 0;
+}
+);
+category = Mark;
+subCategory = Nonspacing;
+}

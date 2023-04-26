@@ -1,0 +1,42 @@
+{
+glyphname = u1D914;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"665 268 LINE",
+"602 268 LINE",
+"602 315 OFFCURVE",
+"564 352 OFFCURVE",
+"511 352 CURVE SMOOTH",
+"489 352 LINE SMOOTH",
+"436 352 OFFCURVE",
+"398 315 OFFCURVE",
+"398 268 CURVE",
+"335 268 LINE",
+"335 247 LINE",
+"665 247 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"419 303 OFFCURVE",
+"447 331 OFFCURVE",
+"492 331 CURVE SMOOTH",
+"508 331 LINE SMOOTH",
+"553 331 OFFCURVE",
+"581 303 OFFCURVE",
+"581 268 CURVE",
+"419 268 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1D914;
+}

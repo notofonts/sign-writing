@@ -1,0 +1,59 @@
+{
+glyphname = u1DA86_F6_R4;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"500 577 LINE",
+"344 436 LINE",
+"344 -20 LINE",
+"656 -20 LINE",
+"656 436 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 417 LINE",
+"500 519 LINE",
+"614 417 LINE",
+"614 22 LINE",
+"386 22 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"675 402 LINE",
+"675 180 LINE",
+"695 180 LINE",
+"695 210 LINE",
+"732 220 OFFCURVE",
+"753 248 OFFCURVE",
+"753 291 CURVE SMOOTH",
+"753 334 OFFCURVE",
+"732 362 OFFCURVE",
+"695 372 CURVE",
+"695 402 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"733 255 OFFCURVE",
+"717 238 OFFCURVE",
+"695 230 CURVE",
+"695 352 LINE",
+"717 344 OFFCURVE",
+"733 327 OFFCURVE",
+"733 291 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+}

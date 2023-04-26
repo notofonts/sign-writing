@@ -1,0 +1,26 @@
+{
+glyphname = ux1DA6B_F3;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"977 300 LINE SMOOTH",
+"977 563 OFFCURVE",
+"763 777 OFFCURVE",
+"500 777 CURVE",
+"500 662 LINE",
+"700 662 OFFCURVE",
+"862 500 OFFCURVE",
+"862 300 CURVE SMOOTH",
+"862 -151 LINE",
+"977 -151 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

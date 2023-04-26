@@ -1,0 +1,37 @@
+{
+glyphname = u1D946_F4_R9;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"563 297 LINE",
+"563 597 LINE",
+"521 597 LINE",
+"521 399 LINE",
+"309 611 LINE",
+"309 -12 LINE",
+"351 -12 LINE",
+"351 509 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"649 597 LINE",
+"649 90 LINE",
+"437 302 LINE",
+"437 -12 LINE",
+"479 -12 LINE",
+"479 200 LINE",
+"691 -12 LINE",
+"691 597 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

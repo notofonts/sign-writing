@@ -1,0 +1,50 @@
+{
+glyphname = u1DA05;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 617}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"404 644 LINE",
+"284 644 LINE",
+"284 760 LINE",
+"264 760 LINE",
+"264 624 LINE",
+"404 624 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"649 726 OFFCURVE",
+"576 756 OFFCURVE",
+"500 756 CURVE SMOOTH",
+"441 756 OFFCURVE",
+"386 738 OFFCURVE",
+"335 703 CURVE",
+"349 688 LINE",
+"395 719 OFFCURVE",
+"447 736 OFFCURVE",
+"500 736 CURVE SMOOTH",
+"571 736 OFFCURVE",
+"641 707 OFFCURVE",
+"696 655 CURVE",
+"710 668 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 1DA05;
+category = Mark;
+subCategory = Nonspacing;
+}

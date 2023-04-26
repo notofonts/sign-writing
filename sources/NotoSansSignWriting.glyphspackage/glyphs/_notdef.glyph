@@ -1,0 +1,32 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"705 714 LINE",
+"294 714 LINE",
+"294 0 LINE",
+"705 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"654 663 LINE",
+"654 51 LINE",
+"345 51 LINE",
+"345 663 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+script = "";
+category = Separator;
+subCategory = Other;
+}

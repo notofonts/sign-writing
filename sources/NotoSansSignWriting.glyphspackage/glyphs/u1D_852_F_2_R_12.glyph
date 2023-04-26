@@ -1,0 +1,48 @@
+{
+glyphname = u1D852_F2_R12;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"653 278 LINE",
+"657 364 LINE",
+"398 623 LINE",
+"177 402 LINE",
+"225 354 LINE",
+"225 147 LINE",
+"266 146 LINE",
+"266 313 LINE",
+"436 143 LINE",
+"436 -50 LINE",
+"478 -51 LINE",
+"478 145 LINE",
+"522 147 LINE",
+"609 -64 LINE",
+"648 -49 LINE",
+"566 150 LINE",
+"617 153 LINE",
+"796 -26 LINE",
+"826 4 LINE",
+"647 183 LINE",
+"650 234 LINE",
+"849 152 LINE",
+"864 191 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"605 195 LINE",
+"452 187 LINE",
+"237 402 LINE",
+"317 483 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,60 @@
+{
+glyphname = u1DA70_F2_R16;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"263 420 LINE",
+"263 439 LINE",
+"174 439 LINE",
+"174 350 LINE",
+"194 350 LINE",
+"194 420 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 404 LINE",
+"209 390 LINE",
+"294 305 LINE",
+"308 319 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 328 LINE",
+"171 347 LINE",
+"82 347 LINE",
+"82 258 LINE",
+"102 258 LINE",
+"102 328 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"328 318 LINE",
+"328 226 LINE",
+"918 226 LINE",
+"918 318 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 312 LINE",
+"117 298 LINE",
+"202 213 LINE",
+"216 227 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

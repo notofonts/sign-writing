@@ -1,0 +1,35 @@
+{
+glyphname = ux1DA40_F2;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"591 230 OFFCURVE",
+"668 289 OFFCURVE",
+"696 370 CURVE",
+"304 370 LINE",
+"332 289 OFFCURVE",
+"409 230 OFFCURVE",
+"500 230 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"444 265 OFFCURVE",
+"393 292 OFFCURVE",
+"362 335 CURVE",
+"638 335 LINE",
+"607 292 OFFCURVE",
+"556 265 OFFCURVE",
+"500 265 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+}

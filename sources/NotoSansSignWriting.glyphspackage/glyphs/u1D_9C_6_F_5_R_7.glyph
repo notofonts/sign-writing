@@ -1,0 +1,45 @@
+{
+glyphname = u1D9C6_F5_R7;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"476 232 LINE",
+"497 253 LINE",
+"540 208 OFFCURVE",
+"544 192 OFFCURVE",
+"521 169 CURVE SMOOTH",
+"493 142 OFFCURVE",
+"478 156 OFFCURVE",
+"436 199 CURVE SMOOTH",
+"361 274 LINE",
+"346 259 LINE",
+"452 153 LINE SMOOTH",
+"492 113 OFFCURVE",
+"531 120 OFFCURVE",
+"566 155 CURVE SMOOTH",
+"593 183 LINE SMOOTH",
+"647 236 OFFCURVE",
+"666 318 OFFCURVE",
+"628 384 CURVE",
+"650 406 LINE",
+"477 405 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"501 292 LINE",
+"502 381 LINE",
+"590 381 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "SM and Small tail and SMer arrowhead; LG tail";
+}

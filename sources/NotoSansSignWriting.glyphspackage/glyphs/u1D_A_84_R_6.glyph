@@ -1,0 +1,47 @@
+{
+glyphname = u1DA84_R6;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 717}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"785 -85 OFFCURVE",
+"819 -80 OFFCURVE",
+"850 -50 CURVE SMOOTH",
+"880 -19 OFFCURVE",
+"885 15 OFFCURVE",
+"866 49 CURVE",
+"887 70 LINE",
+"873 84 LINE",
+"716 -73 LINE",
+"730 -87 LINE",
+"751 -66 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"810 -61 OFFCURVE",
+"787 -62 OFFCURVE",
+"765 -52 CURVE",
+"852 34 LINE",
+"862 13 OFFCURVE",
+"861 -10 OFFCURVE",
+"835 -36 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+category = Mark;
+subCategory = Nonspacing;
+}

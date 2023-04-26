@@ -1,0 +1,33 @@
+{
+glyphname = u1DA09;
+layers = (
+{
+anchors = (
+{
+name = _Anchor6;
+position = "{500, 617}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"461 711 LINE",
+"482 690 LINE",
+"300 690 LINE",
+"300 655 LINE",
+"700 655 LINE",
+"700 690 LINE",
+"530 690 LINE",
+"485 735 LINE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = 1DA09;
+category = Mark;
+subCategory = Nonspacing;
+}

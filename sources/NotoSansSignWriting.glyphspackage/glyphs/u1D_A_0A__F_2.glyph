@@ -1,0 +1,45 @@
+{
+glyphname = u1DA0A_F2;
+layers = (
+{
+anchors = (
+{
+name = Anchor18;
+position = "{500, 650}";
+},
+{
+name = _Anchor16;
+position = "{500, 402}";
+},
+{
+name = _Anchor2;
+position = "{500, 402}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"591 581 LINE",
+"737 435 LINE",
+"761 460 LINE",
+"615 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"542 529 LINE",
+"688 383 LINE",
+"712 408 LINE",
+"566 554 LINE"
+);
+}
+);
+width = 0;
+}
+);
+category = Mark;
+subCategory = Nonspacing;
+}

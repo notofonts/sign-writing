@@ -1,0 +1,38 @@
+{
+glyphname = u1DA38_R4;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"294 283 LINE",
+"533 422 LINE",
+"512 459 LINE",
+"273 320 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"362 192 LINE",
+"391 162 LINE",
+"587 357 LINE",
+"557 387 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"483 94 LINE",
+"520 73 LINE",
+"659 312 LINE",
+"622 333 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

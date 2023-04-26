@@ -1,0 +1,42 @@
+{
+glyphname = u1D892_F4_R12;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"581 407 LINE",
+"611 437 LINE",
+"472 575 LINE",
+"225 328 LINE",
+"363 189 LINE",
+"393 219 LINE",
+"284 328 LINE",
+"472 516 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"611 377 LINE",
+"660 328 LINE",
+"472 140 LINE",
+"423 189 LINE",
+"393 160 LINE",
+"433 120 LINE",
+"433 -56 LINE",
+"522 -57 LINE",
+"522 130 LINE",
+"521 130 LINE",
+"720 328 LINE",
+"640 407 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "need to be baby glyphs";
+}

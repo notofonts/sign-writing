@@ -1,0 +1,30 @@
+{
+glyphname = u1D80A_F3_R4;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"700 418 LINE",
+"452 665 LINE",
+"205 418 LINE",
+"422 200 LINE",
+"322 100 LINE SMOOTH",
+"268 45 OFFCURVE",
+"266 0 OFFCURVE",
+"318 -52 CURVE SMOOTH",
+"439 -173 LINE",
+"468 -143 LINE",
+"345 -19 LINE SMOOTH",
+"315 11 OFFCURVE",
+"317 35 OFFCURVE",
+"349 67 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+}

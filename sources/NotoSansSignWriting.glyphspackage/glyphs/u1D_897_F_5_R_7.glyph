@@ -1,0 +1,58 @@
+{
+glyphname = u1D897_F5_R7;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"594 433 LINE",
+"594 300 LINE",
+"524 300 LINE",
+"524 125 LINE",
+"636 125 LINE",
+"636 398 LINE",
+"637 399 LINE SMOOTH",
+"670 432 OFFCURVE",
+"713 475 OFFCURVE",
+"672 516 CURVE SMOOTH",
+"631 557 OFFCURVE",
+"587 513 OFFCURVE",
+"555 481 CURVE SMOOTH",
+"549 475 LINE",
+"524 475 LINE",
+"524 433 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"616 505 OFFCURVE",
+"634 518 OFFCURVE",
+"654 498 CURVE SMOOTH",
+"674 478 OFFCURVE",
+"662 460 OFFCURVE",
+"631 429 CURVE",
+"585 475 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"482 125 LINE",
+"482 300 LINE",
+"328 300 LINE",
+"328 433 LINE",
+"482 433 LINE",
+"482 475 LINE",
+"286 475 LINE",
+"286 125 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "need to be baby glyphs";
+}

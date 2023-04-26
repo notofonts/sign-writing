@@ -1,0 +1,33 @@
+{
+glyphname = u1D977_F2_R7;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"600 341 LINE",
+"270 341 LINE",
+"523 88 LINE",
+"553 118 LINE",
+"372 299 LINE",
+"600 299 LINE",
+"600 190 LINE",
+"730 320 LINE",
+"600 450 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"625 250 LINE",
+"625 390 LINE",
+"695 320 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

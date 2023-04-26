@@ -1,0 +1,40 @@
+{
+glyphname = ux1DA23_F4_R3;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"507 349 LINE",
+"493 363 LINE",
+"430 300 LINE",
+"493 237 LINE",
+"507 251 LINE",
+"458 300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"490 330 LINE",
+"490 310 LINE",
+"570 310 LINE",
+"570 330 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"490 290 LINE",
+"490 270 LINE",
+"570 270 LINE",
+"570 290 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

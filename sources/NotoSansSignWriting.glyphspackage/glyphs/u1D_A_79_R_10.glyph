@@ -1,0 +1,21 @@
+{
+glyphname = u1DA79_R10;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"401 -88 LINE",
+"443 -97 LINE",
+"599 688 LINE",
+"558 696 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "check angles with protractor?";
+}

@@ -1,0 +1,76 @@
+{
+glyphname = u1D9FF_R2;
+layers = (
+{
+anchors = (
+{
+name = Anchor10;
+position = "{500, 481}";
+},
+{
+name = Anchor12;
+position = "{500, 100}";
+},
+{
+name = Anchor14;
+position = "{500, 300}";
+},
+{
+name = Anchor2;
+position = "{500, 402}";
+},
+{
+name = Anchor4;
+position = "{500, -120}";
+},
+{
+name = Anchor6;
+position = "{500, 717}";
+},
+{
+name = Anchor8;
+position = "{500, 300}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"720 -97 OFFCURVE",
+"897 80 OFFCURVE",
+"897 300 CURVE SMOOTH",
+"897 520 OFFCURVE",
+"720 697 OFFCURVE",
+"500 697 CURVE SMOOTH",
+"280 697 OFFCURVE",
+"103 520 OFFCURVE",
+"103 300 CURVE SMOOTH",
+"103 80 OFFCURVE",
+"280 -97 OFFCURVE",
+"500 -97 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"309 -55 OFFCURVE",
+"195 103 OFFCURVE",
+"195 300 CURVE SMOOTH",
+"195 497 OFFCURVE",
+"309 655 OFFCURVE",
+"500 655 CURVE SMOOTH",
+"697 655 OFFCURVE",
+"855 497 OFFCURVE",
+"855 300 CURVE SMOOTH",
+"855 103 OFFCURVE",
+"697 -55 OFFCURVE",
+"500 -55 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+category = Letter;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = u1D8EE_F3_R16;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"438 387 LINE",
+"438 595 LINE",
+"396 596 LINE",
+"396 388 LINE",
+"397 388 LINE",
+"169 161 LINE",
+"417 -87 LINE",
+"796 293 LINE",
+"766 322 LINE",
+"635 191 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

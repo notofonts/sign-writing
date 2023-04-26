@@ -1,0 +1,29 @@
+{
+glyphname = u1DA76;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"724 45 LINE",
+"754 75 LINE",
+"530 300 LINE",
+"754 524 LINE",
+"724 554 LINE",
+"500 330 LINE",
+"275 554 LINE",
+"245 524 LINE",
+"470 300 LINE",
+"245 75 LINE",
+"275 45 LINE",
+"500 270 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1DA76;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = u1DA3B;
+layers = (
+{
+anchors = (
+{
+name = _Anchor12;
+position = "{500, 100}";
+}
+);
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"639 118 LINE",
+"359 118 LINE",
+"359 83 LINE",
+"639 83 LINE"
+);
+}
+);
+width = 0;
+}
+);
+note = _bottom;
+unicode = 1DA3B;
+category = Mark;
+subCategory = Nonspacing;
+}

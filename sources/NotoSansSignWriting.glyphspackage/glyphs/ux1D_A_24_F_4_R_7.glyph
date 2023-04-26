@@ -1,0 +1,31 @@
+{
+glyphname = ux1DA24_F4_R7;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"492 251 LINE",
+"506 237 LINE",
+"569 300 LINE",
+"506 363 LINE",
+"492 349 LINE",
+"541 300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"509 290 LINE",
+"509 310 LINE",
+"429 310 LINE",
+"429 290 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

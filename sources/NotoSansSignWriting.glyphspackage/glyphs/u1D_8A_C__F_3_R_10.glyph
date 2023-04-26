@@ -1,0 +1,45 @@
+{
+glyphname = u1D8AC_F3_R10;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"781 311 LINE",
+"767 351 LINE",
+"678 314 LINE",
+"608 383 LINE",
+"729 503 LINE",
+"786 446 LINE",
+"715 375 LINE",
+"744 345 LINE",
+"845 446 LINE",
+"729 563 LINE",
+"579 413 LINE",
+"381 611 LINE",
+"381 790 LINE",
+"339 790 LINE",
+"339 609 LINE",
+"113 383 LINE",
+"361 136 LINE",
+"668 264 LINE",
+"826 106 LINE",
+"856 136 LINE",
+"710 281 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"636 296 LINE",
+"439 214 LINE",
+"579 354 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

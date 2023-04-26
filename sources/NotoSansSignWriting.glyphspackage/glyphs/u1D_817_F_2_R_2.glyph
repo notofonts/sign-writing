@@ -1,0 +1,40 @@
+{
+glyphname = u1D817_F2_R2;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"281 767 LINE",
+"251 737 LINE",
+"498 490 LINE",
+"434 425 LINE",
+"277 583 LINE",
+"186 491 LINE",
+"274 403 LINE",
+"304 433 LINE",
+"245 491 LINE",
+"277 523 LINE",
+"404 396 LINE",
+"281 272 LINE",
+"528 25 LINE",
+"775 272 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"622 178 LINE",
+"528 84 LINE",
+"340 272 LINE",
+"434 366 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+note = "shorten middle?";
+}

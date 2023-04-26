@@ -1,0 +1,21 @@
+{
+glyphname = u1DA6D;
+layers = (
+{
+layerId = "B5BBCF37-8EA3-4A7F-B967-74D10E0B056C";
+paths = (
+{
+closed = 1;
+nodes = (
+"875 346 LINE",
+"125 346 LINE",
+"125 254 LINE",
+"875 254 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 1DA6D;
+}
