@@ -111,4 +111,5 @@ width = 1000;
 }
 );
 category = Letter;
+subCategory = Other;
 }

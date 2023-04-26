@@ -52,4 +52,6 @@ width = 1000;
 }
 );
 note = "invisible headshape as per proposal";
+category = Letter;
+subCategory = Other;
 }
