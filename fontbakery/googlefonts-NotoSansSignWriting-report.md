@@ -37,28 +37,6 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- nbspace
-
-	- u1DA01_F2
-
-	- u1DA01_F2_R2
-
-	- u1DA01_F2_R3
-
-	- u1DA01_F2_R4
-
-	- u1DA01_F2_R5
-
-	- u1DA01_F2_R6
-
-	- u1DA01_F2_R7
-
-	- u1DA01_F2_R8
-
-	- u1DA01_F3 
-
-	- 367 more.
-
-Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
