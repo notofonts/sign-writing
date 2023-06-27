@@ -37995,7 +37995,7 @@ disablesNiceNames = 1;
 familyName = "Noto Sans SignWriting";
 featurePrefixes = (
 {
-code = "languagesystem sgnw dflt;\012";
+code = "languagesystem DFLT dflt;\012languagesystem sgnw dflt;\012";
 name = Languagesystems;
 },
 {
